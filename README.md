@@ -21,7 +21,6 @@ Scans your local `/24` network from the **default gateway**, displays live hosts
 
 ## Screenshot
 
-![Nmap GUI Screenshot](https://via.placeholder.com/520x720.png?text=Nmap+GUI+Screenshot)  
 *(Coming soon — or run it yourself!)*
 
 ---
@@ -180,8 +179,7 @@ See [LICENSE](LICENSE) for details.
 
 ## Author
 
-**Your Name**  
-*Built with love in Rust*
+Brandon S Smith
 
 ---
 
